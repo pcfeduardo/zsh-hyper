@@ -17,3 +17,4 @@ function precmd () {
 autoload -U promptinit; promptinit
 prompt spaceship
 
+alias ls='ls --color'
