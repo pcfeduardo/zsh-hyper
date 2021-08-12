@@ -10,7 +10,7 @@ module.exports = {
     // default font size in pixels for all tabs
     fontSize: 16,
     // font family with optional fallbacks
-    fontFamily: '"Roboto Mono", monospace',
+    fontFamily: '"Hasklug Nerd Font", "Roboto Mono", monospace',
     // default font weight: 'normal' or 'bold'
     fontWeight: "normal",
     // font weight for bold characters: 'normal' or 'bold'
@@ -162,7 +162,8 @@ module.exports = {
     "hyper-search",
     "hyper-pane",
     "hyper-active-tab",
-    "hyper-dracula"
+    "hyper-dracula",
+    "hypergravity"
   ],
   // in development, you can create a directory under
   // `~/.hyper_plugins/local/` and include it here
