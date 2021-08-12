@@ -160,9 +160,9 @@ module.exports = {
     "hyperpower",
     "hyper-quit",
     "hyper-search",
-
     "hyper-pane",
     "hyper-active-tab",
+    "hyper-dracula"
   ],
   // in development, you can create a directory under
   // `~/.hyper_plugins/local/` and include it here
